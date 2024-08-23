@@ -1,0 +1,1 @@
+This Sudoku Solver Solves the Sudoku, combining Back Propagation (Brute Force) and Logical Solving. Just install the Python package CustomTkinter and run the code. It has interactive GUI to update the Sudoku, clear the Sudoku.
